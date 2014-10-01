@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <declare-styleable name="PagingListView">
+       <attr name="pagingPosition" format="enum">
+           <enum name="bottom" value="0"/>
+           <enum name="top" value="1"/>
+       </attr>
+   </declare-styleable>
+</resources>
